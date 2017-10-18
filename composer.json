@@ -1,6 +1,9 @@
 {
     "name": "root/framework",
     "description": "lesson 2",
+    "autoload": {
+        "psr-4": { "": "src/" }
+    },
     "authors": [
         {
             "name": "VictorFursa",
